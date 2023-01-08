@@ -1,5 +1,6 @@
 import { categories } from "../data/data.js";
 
+// Bottom most of the app is the category
 const Category = () => {
   return (
     //Main div container
