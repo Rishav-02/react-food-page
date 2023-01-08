@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { data } from "../data/data.js";
 
+// All filter function and images are shown here
 const Food = () => {
 
   //State Hook
