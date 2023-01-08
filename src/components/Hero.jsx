@@ -1,3 +1,4 @@
+// Front 1st image are display by this file
 const Hero = () => {
   return (
     // This div capture whole image if we will not give 1640px then after increase size of app the image contracts.
