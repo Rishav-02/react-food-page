@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-// React Icons
+// Al icons present in React Icons
 import {
   AiOutlineMenu,
   AiOutlineSearch,
