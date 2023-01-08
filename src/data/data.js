@@ -1,3 +1,4 @@
+// All images and its data are present in this file
 export const data = [
   {
     // 20 Objects inside Array
