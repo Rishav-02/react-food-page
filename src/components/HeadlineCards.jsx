@@ -1,3 +1,4 @@
+// Three head images are shown by this file
 const HeadlineCards = () => {
   return (
     // Main div container,if app resize to medium then grid divides into 3 columns 
