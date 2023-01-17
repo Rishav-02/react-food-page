@@ -1,26 +1,27 @@
 # React Food Page
 
+<!-- Both methods are used for uploading the Photos 
+1st by <img> tag and 2nd by normal drag and drop of SSorts.
+These all Images are drag and drop in Readme.md file then a link is generated automatically then copy from there and paste it here -->
+
 *Front View* 
 
-<img src="https://user-images.githubusercontent.com/100300441/212842809-eebb676a-0e5c-47b2-8276-9290837f5827.png" width="500">
+<img src="https://user-images.githubusercontent.com/100300441/212842809-eebb676a-0e5c-47b2-8276-9290837f5827.png">
 
 *Filter Section*
 
-<img src="https://user-images.githubusercontent.com/100300441/212843671-2e35fb18-8a8d-443a-a018-af172a3e3d28.png" width="500">
+<img src="https://user-images.githubusercontent.com/100300441/212843671-2e35fb18-8a8d-443a-a018-af172a3e3d28.png">
 
+<!-- These 3 are directly drag and drop SS -->
 *Category Section*
 
 ![Screenshot (47)](https://user-images.githubusercontent.com/100300441/212845097-cbf1c300-173b-4fdf-b745-6867db3c50d6.png)
 
-<!-- *Mobile Responsive*
+*Mobile Responsive*
 ![Screenshot (49)](https://user-images.githubusercontent.com/100300441/212845352-5916072c-5c78-4fd2-9d66-3aa884ff6cad.png)
 
 *NavBar Icons*
-![Screenshot (48)](https://user-images.githubusercontent.com/100300441/212845321-6797202b-f34f-4cd3-b7be-61cb90579983.png) -->
-
-
-
-
+![Screenshot (48)](https://user-images.githubusercontent.com/100300441/212845321-6797202b-f34f-4cd3-b7be-61cb90579983.png)
 
 
 *Food Page built with React* [Live Demo](https://justeats.netlify.app/)
@@ -48,7 +49,7 @@ Install dependency **react-icons**
 npm install react-icons
 ```
 *You have to setup for Tailwind Css by following documentation.* [Tailwind Css](https://tailwindcss.com/)
-<br>
+<hr>
 
 Finally clone this repository, install dependencies and run the local server
 
