@@ -16,16 +16,17 @@
 
 ## Getting Started
 
-First you have to set up react project
+First you have to set up your react project by running
 
 ```bash
 npx create-react-app food-page
 ```
-Install **react-icons**
+Install dependency **react-icons**
 ```bash
 npm install react-icons
 ```
-You have to setup for Tailwind Css
+*You have to setup for Tailwind Css by following documentation.* [Tailwind Css](https://tailwindcss.com/)
+<br>
 
 Finally clone this repository, install dependencies and run the local server
 
@@ -40,6 +41,7 @@ npm install
 npm start
 ```
 
+
 ## Credits
 
-[unsplash.com](https://unsplash.com/ 'unsplash.com') (Background Image)
+[unsplash.com](https://unsplash.com/ 'unsplash.com') (For Food Images)
