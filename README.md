@@ -4,7 +4,7 @@
 1st by <img> tag and 2nd by normal drag and drop of SSorts.
 These all Images are drag and drop in Readme.md file then a link is generated automatically then copy from there and paste it here -->
 
-![GitHub top language](https://img.shields.io/github/languages/top/Rishav-02/react-food-page?color=yellow&style=for-the-badge) <img src="https://img.shields.io/badge/Netlify-success-green"> ![GitHub language count](https://img.shields.io/github/languages/count/Rishav-02/react-food-page?color=green&style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/Rishav-02/react-food-page?color=yellow&style=flat-square) <img src="https://img.shields.io/badge/Netlify-success-green"> ![GitHub language count](https://img.shields.io/github/languages/count/Rishav-02/react-food-page?color=green&style=flat-square)
 
 <hr>
 
