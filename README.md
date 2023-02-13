@@ -4,6 +4,10 @@
 1st by <img> tag and 2nd by normal drag and drop of SSorts.
 These all Images are drag and drop in Readme.md file then a link is generated automatically then copy from there and paste it here -->
 
+![GitHub top language](https://img.shields.io/github/languages/top/Rishav-02/react-food-page?color=yellow&style=for-the-badge) <img src="https://img.shields.io/badge/Netlify-success-green"> ![GitHub language count](https://img.shields.io/github/languages/count/Rishav-02/react-food-page?color=green&style=flat-square)
+
+<hr>
+
 *Front View* 
 
 <img src="https://user-images.githubusercontent.com/100300441/212842809-eebb676a-0e5c-47b2-8276-9290837f5827.png">
@@ -29,7 +33,7 @@ These all Images are drag and drop in Readme.md file then a link is generated au
 
 ## Tech Used
 
-**React, JavaScript, HTML, Tailwind Css, JSON Data**
+<img src="https://img.shields.io/badge/React-Library-blue"> <img src="https://img.shields.io/badge/JavaScript-Language-yellow"> <img src="https://img.shields.io/badge/HTML5-Markup%20Language-orange"> <img src="https://img.shields.io/badge/Tailwind%20Css-CSS%20framework-blue"> <img src="https://img.shields.io/badge/JSON%20-Data-green"> 
 
 ## Features
 
